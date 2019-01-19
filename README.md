@@ -1,7 +1,7 @@
 # Wikipedia Captcha
 
 This is a code dump of a captcha system I started work on. It is 
-based on the idea of generating captcha questions based on facts 
+based on the idea of generating captcha questions from facts 
 found in Wikipedia articles.
 
 Please note that this code is not currently in a state suitable 
